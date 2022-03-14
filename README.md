@@ -13,7 +13,7 @@ Project: Analyze all the rideshare data from January to early May of 2019 and cr
 
 **Data Source:** results.csv
 
-**Software:** Python graphing library Matplotlib
+**Software:** Python graphing library Matplotlib.
 
 ## Results
 
@@ -22,3 +22,9 @@ Project: Analyze all the rideshare data from January to early May of 2019 and cr
     
 	
 ## Summary:
+
+Matplotlib has an advantage over Excel when it comes to graphing because of the robust features it offers. You can use it to create a wide range of graphs, including line plots, bar plots, scatter plots, bubble charts, pie charts, histograms, 3D plots, log plots, and polar plots—to name just a few.
+
+Matplotlib also has rich styling options. You can customize annotations for chart axes, titles and legends, the color and size of lines, bars, and bubbles, and the chart's background. It also lets you save and print publication-quality charts. Because of these features, Matlplotlib is one of the most popular plotting libraries for Python.
+
+Matplotlib has two methods for graphing data. One uses MATLAB's plotting syntax and functionality and the other uses an object-oriented interface. MATLAB's plotting syntax is concise and the most useful when creating simple plots that require little coding. This method is most effective when graphing data directly from a DataFrame. The object-oriented method is better suited to more complicated graphs that require more coding, such as those with multiple lines or bars, or multiple plots in one graph.

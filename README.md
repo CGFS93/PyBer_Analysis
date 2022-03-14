@@ -28,3 +28,7 @@ Matplotlib has an advantage over Excel when it comes to graphing because of the 
 Matplotlib also has rich styling options. You can customize annotations for chart axes, titles and legends, the color and size of lines, bars, and bubbles, and the chart's background. It also lets you save and print publication-quality charts. Because of these features, Matlplotlib is one of the most popular plotting libraries for Python.
 
 Matplotlib has two methods for graphing data. One uses MATLAB's plotting syntax and functionality and the other uses an object-oriented interface. MATLAB's plotting syntax is concise and the most useful when creating simple plots that require little coding. This method is most effective when graphing data directly from a DataFrame. The object-oriented method is better suited to more complicated graphs that require more coding, such as those with multiple lines or bars, or multiple plots in one graph.
+
+A bar chart tells a different visual story than a line chart. There are many benefits to using a bar chart. They're good at displaying discrete data (i.e., data based on counts) in distinct columns. They also tend to be visually strong. For example, adding color to the bars can make a chart really shine for your audience.
+
+A bar chart can be used to clearly compare two or more datasets, either by displaying them side by side or by using a stacked bar chart. Bar charts can provide more visual appeal and information compared to having multiple lines on the same graph, which can mask the underlying information.

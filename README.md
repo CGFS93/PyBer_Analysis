@@ -7,7 +7,7 @@ Using the Python graphing library Matplotlib, visualization features. Matplotlib
  
 ### Purpose
 
-Project: Analyze all the rideshare data from January to early May of 2019 and createvisualization.
+Project: Analyze all the rideshare data from January to early May of 2019 and create visualization.
 
 ## Resources
 

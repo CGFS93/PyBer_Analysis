@@ -16,15 +16,22 @@ Analyze all the rideshare data from January to early May of 2019 and create visu
 **Software:** Jupyter, Python graphing library Matplotlib.
 
 ## Results:
+
+The multiple-line chart "Total Fare by City Type" presents trends of total fares in rural, suburban, and urban cities during January and April 2019. The yellow trend line represents fares in urban cities totaling from $1,600 to $2,300 during the five-month period. The blue trend line represents fares in rural cities totaling about $300 during the same time period. The orange trend line represents fares in suburban cities totaling $700 to $1,300 during the same time period. The chart demonstrates similar trends for all types of cities. Urban, suburban, and rural cities experienced a similar peak trend during the end of February.
+
 ![PyeBer_fare_summary](analysis/PyBer_fare_summary.png)	
+
 ## Summary:
 
-Matplotlib has an advantage over Excel when it comes to graphing because of the robust features it offers. You can use it to create a wide range of graphs, including line plots, bar plots, scatter plots, bubble charts, pie charts, histograms, 3D plots, log plots, and polar plots—to name just a few.
+- There is higher demand for PyBer ridesharing in urban cities, vs suburban or rural areas.
 
-Matplotlib also has rich styling options. You can customize annotations for chart axes, titles and legends, the color and size of lines, bars, and bubbles, and the chart's background. It also lets you save and print publication-quality charts. Because of these features, Matlplotlib is one of the most popular plotting libraries for Python.
+- There are more available drivers in urban cities than in rural areas.
 
-Matplotlib has two methods for graphing data. One uses MATLAB's plotting syntax and functionality and the other uses an object-oriented interface. MATLAB's plotting syntax is concise and the most useful when creating simple plots that require little coding. This method is most effective when graphing data directly from a DataFrame. The object-oriented method is better suited to more complicated graphs that require more coding, such as those with multiple lines or bars, or multiple plots in one graph.
+- PyBer's main revenue source comes from urban cities with higher demand for ride sharing services.
 
-A bar chart tells a different visual story than a line chart. There are many benefits to using a bar chart. They're good at displaying discrete data (i.e., data based on counts) in distinct columns. They also tend to be visually strong. For example, adding color to the bars can make a chart really shine for your audience.
+- PyBer riders in rural areas pay more per fare than riders in urban or suburban cities. 
 
-A bar chart can be used to clearly compare two or more datasets, either by displaying them side by side or by using a stacked bar chart. Bar charts can provide more visual appeal and information compared to having multiple lines on the same graph, which can mask the underlying information.
+- Drivers in rural areas are earning more than drivers in urban cities. 
+
+- Travel distance can be a determining factor for the higher cost of rural fares.
+

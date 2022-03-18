@@ -17,7 +17,7 @@ Analyze all the rideshare data from January to early May of 2019 and create visu
 
 ## Results:
 
-The multiple-line chart "Total Fare by City Type" presents trends of total fares in rural, suburban, and urban cities during January and April 2019. The yellow trend line represents fares in urban cities totaling from $1,600 to $2,300 during the five-month period. The blue trend line represents fares in rural cities totaling about $300 during the same time period. The orange trend line represents fares in suburban cities totaling $700 to $1,300 during the same time period. The chart demonstrates similar trends for all types of cities. Urban, suburban, and rural cities experienced a similar peak trend during the end of February.
+The multiple-line chart "Total Fare by City Type" presents trends of total fares in rural, suburban, and urban cities during January and April 2019. The yellow trend line represents fares in urban cities totaling from $1,600 to $2,300 during the four-month period. The blue trend line represents fares in rural cities totaling about $300 during the same time period. The orange trend line represents fares in suburban cities totaling $700 to $1,300 during the same time period. The chart demonstrates similar trends for all types of cities. Urban, suburban, and rural cities experienced a similar peak trend during the end of February.
 
 ![PyeBer_fare_summary](analysis/PyBer_fare_summary.png)	
 

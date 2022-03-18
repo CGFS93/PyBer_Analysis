@@ -11,14 +11,14 @@ Project: Analyze all the rideshare data from January to early May of 2019 and cr
 
 ## Resources
 
-**Data Source:** results.csv
+**Data Source:** city_data.csv, ride_data.csv.
 
-**Software:** Python graphing library Matplotlib.
+**Software:** Jupyter, Python graphing library Matplotlib.
 
 ## Results
 
     
-    ![the_Results](location/url.png)
+    ![Fig8](analysis/Fig8.png)
     
 	
 ## Summary:

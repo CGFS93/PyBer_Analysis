@@ -1,13 +1,13 @@
 # PyBer Analysis
 
-## Overview:
+## Overview of the Analysis:
 
 Create visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 Using the Python graphing library Matplotlib, visualization features. Matplotlib was created as a Python alternative for MATLAB. MATLAB, which is short for matrix laboratory, was developed by the company MathWorks in the 1980s. It enabled scientists to perform linear algebra and numerical analysis without learning the programming language Fortran, which until then had been the best option for complex computations. Matplotlib is a graphing and plotting library for Python that comes with the Anaconda installation. To use it with Jupyter Notebook, all we need to do is import it. Matplotlib is often used with another Python library, NumPy, a numerical mathematics library for making arrays or matrices. A matrix is a two-dimensional data structure, or a list of lists, in which numbers are arranged into rows and columns. Create and annotate vertical and horizontal bar charts. Bar charts are particularly helpful when comparing datasets over time or when your line chart starts to look cluttered because it has too many lines.
  
-### Purpose
+### Purpose of the Analysis:
 
-Project: Analyze all the rideshare data from January to early May of 2019 and create visualization.
+Analyze all the rideshare data from January to early May of 2019 and create visualization.
 
 ## Resources
 
@@ -15,12 +15,8 @@ Project: Analyze all the rideshare data from January to early May of 2019 and cr
 
 **Software:** Jupyter, Python graphing library Matplotlib.
 
-## Results
-
-    
-    ![Fig8](analysis/Fig8.png)
-    
-	
+## Results:
+![PyeBer_fare_summary](analysis/PyBer_fare_summary.png)	
 ## Summary:
 
 Matplotlib has an advantage over Excel when it comes to graphing because of the robust features it offers. You can use it to create a wide range of graphs, including line plots, bar plots, scatter plots, bubble charts, pie charts, histograms, 3D plots, log plots, and polar plots—to name just a few.
